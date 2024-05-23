@@ -1,10 +1,4 @@
 ## Hi there 👋
-
-<!--
-**BeiwenZhang/BeiwenZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I'm currently a junior undergraduate student at Central South University. 
 - 🌱 I'm majoring in Computer Science Turing.
 - 👯 I'm currently doing research (diffusion model and text2sql)
