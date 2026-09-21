@@ -4,7 +4,6 @@
 
 [![Homepage](https://img.shields.io/badge/Homepage-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://beiwenzhang.github.io/BeiwenZhang/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BeiwenZhang)
-[Co-π-tree project page](https://beiwenzhang.github.io/Co-pi-tree/)
 
 ## About Me
 
