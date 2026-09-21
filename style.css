@@ -643,3 +643,86 @@ i.fas, i.fab {
         font-size: 1.2rem;
     }
 }
+
+/* Research figures and institution identities */
+.feature-card,
+.publication-item {
+    display: grid;
+    grid-template-columns: 190px minmax(0, 1fr);
+    gap: 1.25rem;
+    align-items: start;
+    padding: 1.1rem 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.feature-card h3 {
+    margin-top: 0;
+}
+
+.feature-card p,
+.publication-item p {
+    margin-bottom: 0.45rem;
+}
+
+.figure-link {
+    display: block;
+    width: 190px;
+    border: 1px solid #e1e1e1;
+    background: #fff;
+}
+
+.figure-link img,
+.publication-thumb {
+    display: block;
+    width: 100%;
+    height: 126px;
+    object-fit: contain;
+    border: 0;
+    cursor: pointer;
+}
+
+.institution-item {
+    display: grid;
+    grid-template-columns: 56px minmax(0, 1fr);
+    gap: 1rem;
+    align-items: center;
+    padding: 0.9rem 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.institution-item > img {
+    display: block;
+    width: 52px;
+    height: 52px;
+    object-fit: contain;
+}
+
+.institution-item p:last-child {
+    margin-bottom: 0;
+}
+
+.company-item {
+    grid-template-columns: 112px minmax(0, 1fr);
+}
+
+.company-item > img {
+    width: 104px;
+    height: 36px;
+}
+
+@media (max-width: 620px) {
+    .feature-card,
+    .publication-item {
+        grid-template-columns: 1fr;
+        gap: 0.7rem;
+    }
+
+    .figure-link {
+        width: min(100%, 260px);
+    }
+
+    .company-item {
+        grid-template-columns: 1fr;
+        gap: 0.4rem;
+    }
+}
