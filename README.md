@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a Master's student in Computer Technology at **Sun Yat-sen University**, School of Computer Science and Engineering. I received my B.Eng. in Computer Science and Technology from **Central South University** in 2025.
+I am a Master's student in Computer Technology at **Sun Yat-sen University**, School of Computer Science and Engineering, advised by **Prof. Hejun Wu**. I received my B.Eng. in Computer Science and Technology from **Central South University** in 2025.
 
 My research interests include **multi-agent systems**, **ad hoc teamwork**, **human-AI collaboration**, **interpretable decision-making**, and **large language models**.
 
@@ -36,8 +36,9 @@ My research interests include **multi-agent systems**, **ad hoc teamwork**, **hu
 
 ## Honors & Awards
 
+- First-Class Graduate Scholarship, Sun Yat-sen University, 2026.
+- Outstanding Graduate Student Union Core Member (University-level), Sun Yat-sen University, 2026.
 - Second-Class Graduate Scholarship, Sun Yat-sen University, 2025.
-- Outstanding Graduate Student Union Member, Sun Yat-sen University.
 - National Scholarship, Ministry of Education of China, 2024.
 - Outstanding Student, Central South University, 2024.
 - National Second Prize, Chinese Collegiate Computing Competition, 2023.
