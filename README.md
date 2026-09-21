@@ -4,7 +4,7 @@
 
 [![Homepage](https://img.shields.io/badge/Homepage-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://beiwenzhang.github.io/BeiwenZhang/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BeiwenZhang)
-[![Co-π-tree](https://img.shields.io/badge/Co--%CF%80--tree-Project_Page-blue?style=for-the-badge)](https://beiwenzhang.github.io/Co-pi-tree/)
+[Co-π-tree project page](https://beiwenzhang.github.io/Co-pi-tree/)
 
 ## About Me
 
@@ -35,6 +35,6 @@ My research interests include **multi-agent systems**, **ad hoc teamwork**, **hu
 - <img src="assets/csu-seal.png" alt="Central South University seal" width="24" height="24" align="center"> **B.Eng. in Computer Science and Technology**, Central South University, 2021–2025
 - <img src="assets/vivo-logo.svg" alt="vivo logo" width="52" align="center"> **LLM Algorithm Research Intern**, vivo Mobile Communication Co., Ltd., Oct. 2024–Mar. 2025
 
-## Website and image sources
+## Image sources
 
-This repository contains a static academic homepage adapted from the layout of [Guowei Zou's homepage](https://github.com/Guowei-Zou/Guowei-Zou). University marks come from the official [Sun Yat-sen University](https://www.sysu.edu.cn/) and [Central South University](https://www.csu.edu.cn/zjzn/xxbs/xh.htm) sites; the vivo mark comes from [vivo](https://www.vivo.com/en/). Research figures are from the [Co-π-tree project page](https://beiwenzhang.github.io/Co-pi-tree/), [PACT arXiv HTML](https://arxiv.org/html/2510.25340v2), and [CoFlow project page](https://guowei-zou.github.io/coflow/).
+University marks come from the official [Sun Yat-sen University](https://www.sysu.edu.cn/) and [Central South University](https://www.csu.edu.cn/zjzn/xxbs/xh.htm) sites; the vivo mark comes from [vivo](https://www.vivo.com/en/). Research figures are from the [Co-π-tree project page](https://beiwenzhang.github.io/Co-pi-tree/), [PACT arXiv HTML](https://arxiv.org/html/2510.25340v2), and [CoFlow project page](https://guowei-zou.github.io/coflow/).
