@@ -168,7 +168,7 @@ a:visited {
 /* Profile Section - Simple Layout */
 .profile-section {
     display: grid;
-    grid-template-columns: 150px 1fr;
+    grid-template-columns: 150px minmax(0, 1fr);
     gap: 2rem;
     margin-bottom: 2rem;
     align-items: start;
@@ -179,6 +179,7 @@ a:visited {
 }
 
 .profile-image img {
+    display: block;
     width: 150px;
     height: 150px;
     object-fit: cover;
@@ -186,13 +187,14 @@ a:visited {
     margin-bottom: 0.8rem;
 }
 
-.contact-email {
-    text-align: center;
+.profile-info {
+    min-width: 0;
 }
 
-.contact-email p {
-    margin-bottom: 0.3rem;
-    font-size: 0.85rem;
+.profile-email {
+    margin-bottom: 0.8rem;
+    font-size: 0.9rem;
+    overflow-wrap: anywhere;
 }
 
 .profile-info h1 {
@@ -606,10 +608,6 @@ i.fas, i.fab {
         margin: 0 auto 0.8rem auto;
     }
 
-    .contact-email {
-        text-align: center;
-    }
-
     .project-item {
         grid-template-columns: 60px 1fr;
         gap: 0.8rem;
@@ -708,6 +706,16 @@ i.fas, i.fab {
 .company-item > img {
     width: 104px;
     height: 36px;
+}
+
+.honors-list {
+    padding-left: 1.3rem;
+    margin-bottom: 1rem;
+}
+
+.honors-list li {
+    margin-bottom: 0.55rem;
+    line-height: 1.5;
 }
 
 @media (max-width: 620px) {

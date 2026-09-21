@@ -34,6 +34,18 @@ My research interests include **multi-agent systems**, **ad hoc teamwork**, **hu
 - <img src="assets/csu-seal.png" alt="Central South University seal" width="24" height="24" align="center"> **B.Eng. in Computer Science and Technology**, Central South University, 2021–2025
 - <img src="assets/vivo-logo.svg" alt="vivo logo" width="52" align="center"> **LLM Algorithm Research Intern**, vivo Mobile Communication Co., Ltd., Oct. 2024–Mar. 2025
 
+## Honors & Awards
+
+- Second-Class Graduate Scholarship, Sun Yat-sen University, 2025.
+- Outstanding Graduate Student Union Member, Sun Yat-sen University.
+- National Scholarship, Ministry of Education of China, 2024.
+- Outstanding Student, Central South University, 2024.
+- National Second Prize, Chinese Collegiate Computing Competition, 2023.
+- National Third Prize, China College Students’ Service Outsourcing Innovation and Entrepreneurship Competition, 2023.
+- National Second Prize, RoboCup 2D Simulation League, 2023.
+- Second Prize, Asia-Pacific Mathematical Contest in Modeling, 2023.
+- National Second Prize, National English Competition for College Students, 2023.
+
 ## Image sources
 
 University marks come from the official [Sun Yat-sen University](https://www.sysu.edu.cn/) and [Central South University](https://www.csu.edu.cn/zjzn/xxbs/xh.htm) sites; the vivo mark comes from [vivo](https://www.vivo.com/en/). Research figures are from the [Co-π-tree project page](https://beiwenzhang.github.io/Co-pi-tree/), [PACT arXiv HTML](https://arxiv.org/html/2510.25340v2), and [CoFlow project page](https://guowei-zou.github.io/coflow/).
