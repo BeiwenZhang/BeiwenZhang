@@ -16,7 +16,7 @@ My research interests include **multi-agent systems**, **ad hoc teamwork**, **hu
 <table>
   <tr>
     <td width="190" align="center"><a href="https://beiwenzhang.github.io/Co-pi-tree/"><img src="assets/co-pi-tree-framework.png" alt="Co-π-tree framework" width="180"></a></td>
-    <td><strong>Co-π-tree: Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration</strong><br>Findings of EMNLP 2026<br><strong>Beiwen Zhang</strong>, Yongheng Liang, Guowei Zou, Haitao Wang, Hejun Wu.<br><a href="https://arxiv.org/abs/2606.08596">Paper</a> · <a href="https://beiwenzhang.github.io/Co-pi-tree/">Project Page</a></td>
+    <td><strong>Co-π-tree: Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration</strong><br>Findings of EMNLP 2026<br><strong>Beiwen Zhang</strong>, Yongheng Liang, Guowei Zou, Haitao Wang, Hejun Wu.<br><a href="https://arxiv.org/abs/2606.08596">Paper</a> · <a href="https://beiwenzhang.github.io/Co-pi-tree/">Project Page</a> · <a href="https://github.com/BeiwenZhang/Collaboration-Policy-Tree">Code</a></td>
   </tr>
   <tr>
     <td width="190" align="center"><a href="https://arxiv.org/abs/2510.25340"><img src="assets/pact-overview.png" alt="PACT framework" width="180"></a></td>
