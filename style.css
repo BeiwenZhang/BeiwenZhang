@@ -284,6 +284,17 @@ a:visited {
     font-size: 1.2rem;
 }
 
+.social-links .social-icon {
+    display: inline-block;
+    width: 1.2rem;
+    height: 1.2rem;
+    object-fit: contain;
+}
+
+.social-links .scholar-icon {
+    filter: invert(48%) sepia(95%) saturate(1603%) hue-rotate(199deg) brightness(98%) contrast(95%);
+}
+
 /* Brand colors at rest */
 .social-links .social-btn .fa-github { color: #181717; }
 .social-links .social-btn .fa-x-twitter { color: #000; }
@@ -295,6 +306,26 @@ a:visited {
 .social-links .social-btn:hover i.fas,
 .social-links .social-btn:hover i.fab {
     color: #fff;
+}
+
+.social-links .social-btn:hover .social-icon {
+    filter: brightness(0) invert(1);
+}
+
+.scholar-profile-link {
+    margin: -0.25rem 0 0.75rem;
+}
+
+.scholar-profile-link a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+}
+
+.scholar-profile-link img {
+    width: 1.1rem;
+    height: 1.1rem;
+    filter: invert(48%) sepia(95%) saturate(1603%) hue-rotate(199deg) brightness(98%) contrast(95%);
 }
 
 /* Biography */

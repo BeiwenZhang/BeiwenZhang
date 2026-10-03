@@ -4,6 +4,7 @@
 
 [![Homepage](https://img.shields.io/badge/Homepage-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://beiwenzhang.github.io/BeiwenZhang/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BeiwenZhang)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=EkCEn4oAAAAJ)
 
 ## About Me
 
