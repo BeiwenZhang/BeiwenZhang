@@ -765,3 +765,163 @@ i.fas, i.fab {
         gap: 0.4rem;
     }
 }
+
+/* Theme switcher */
+.theme-toggle {
+    align-self: flex-start;
+    margin: 0.4rem 0.6rem 0;
+    padding: 0.45rem 0.65rem;
+    border: 1px solid #d0d0d0;
+    border-radius: 6px;
+    background: #fff;
+    color: #333;
+    font: 600 0.88rem 'Source Sans Pro', -apple-system, sans-serif;
+    cursor: pointer;
+}
+
+.theme-toggle:hover {
+    background: #ececec;
+    color: #000;
+}
+
+.theme-toggle:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 3px;
+}
+
+html[data-theme="dark"] {
+    color-scheme: dark;
+}
+
+html[data-theme="dark"] body {
+    color: #e7e9ed;
+    background: #15191e;
+}
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4 {
+    color: #f4f5f7;
+}
+
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3.bordered-subtitle {
+    border-color: #76808a;
+}
+
+html[data-theme="dark"] a,
+html[data-theme="dark"] .highlight,
+html[data-theme="dark"] .company-name {
+    color: #9bc6ff;
+}
+
+html[data-theme="dark"] a:visited {
+    color: #c6a7ff;
+}
+
+html[data-theme="dark"] .header {
+    background: #1d232b;
+    border-color: #353e49;
+}
+
+html[data-theme="dark"] .nav-brand a,
+html[data-theme="dark"] .nav-brand a:visited {
+    color: #f4f5f7;
+}
+
+html[data-theme="dark"] .nav-menu a,
+html[data-theme="dark"] .nav-menu a:visited {
+    color: #d5dce5;
+}
+
+html[data-theme="dark"] .nav-menu a:hover,
+html[data-theme="dark"] .nav-menu a.active {
+    color: #fff;
+    background: #35414e;
+}
+
+html[data-theme="dark"] .theme-toggle {
+    color: #e7e9ed;
+    background: #27313b;
+    border-color: #52606e;
+}
+
+html[data-theme="dark"] .theme-toggle:hover {
+    color: #fff;
+    background: #35414e;
+}
+
+html[data-theme="dark"] .social-links .social-btn,
+html[data-theme="dark"] .social-links .social-btn:visited {
+    color: #e7e9ed;
+    background: #202730;
+    border-color: #56616d;
+}
+
+html[data-theme="dark"] .social-links .social-btn:hover {
+    color: #15191e;
+    background: #e7e9ed;
+    border-color: #e7e9ed;
+}
+
+html[data-theme="dark"] .social-links .social-btn .fa-github {
+    color: #e7e9ed;
+}
+
+html[data-theme="dark"] .social-links .social-btn:hover i.fas,
+html[data-theme="dark"] .social-links .social-btn:hover i.fab {
+    color: #15191e;
+}
+
+html[data-theme="dark"] .social-links .social-btn:hover .social-icon {
+    filter: brightness(0);
+}
+
+html[data-theme="dark"] .bio,
+html[data-theme="dark"] .publications-link,
+html[data-theme="dark"] .education-list-inline,
+html[data-theme="dark"] .research-list-inline,
+html[data-theme="dark"] .real-map-container,
+html[data-theme="dark"] .footer {
+    color: #e7e9ed;
+    background: #15191e;
+}
+
+html[data-theme="dark"] .publication-item,
+html[data-theme="dark"] .feature-card,
+html[data-theme="dark"] .institution-item {
+    border-color: #353e49;
+}
+
+html[data-theme="dark"] .figure-link {
+    border-color: #56616d;
+}
+
+html[data-theme="dark"] .flag-counter {
+    color: #e7e9ed;
+    background: #202730;
+    border-color: #56616d;
+}
+
+html[data-theme="dark"] .map-links,
+html[data-theme="dark"] .footer {
+    border-color: #76808a;
+}
+
+html[data-theme="dark"] .academic-links .separator {
+    color: #aab4c1;
+}
+
+html[data-theme="dark"] .institution-item > img,
+html[data-theme="dark"] .inline-logo {
+    background: #fff;
+    border-radius: 3px;
+}
+
+@media (max-width: 768px) {
+    .theme-toggle {
+        align-self: center;
+        margin: 0;
+    }
+}
