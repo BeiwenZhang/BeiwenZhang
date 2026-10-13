@@ -33,6 +33,7 @@ My research interests include **multi-agent systems**, **ad hoc teamwork**, **hu
 
 - <img src="assets/sysu-seal.png" alt="Sun Yat-sen University seal" width="24" height="24" align="center"> **M.Eng. in Computer Technology**, Sun Yat-sen University, 2025–2028 (expected)
 - <img src="assets/csu-seal.png" alt="Central South University seal" width="24" height="24" align="center"> **B.Eng. in Computer Science and Technology**, Central South University, 2021–2025
+- <img src="assets/tencent-logo.png" alt="Tencent logo" width="52" align="center"> **Reinforcement Learning Algorithm Intern**, Tencent Interactive Entertainment Group (IEG) · LIGHTSPEED STUDIOS (光子工作室群), Guangzhou, Oct. 2026–Present
 - <img src="assets/vivo-logo.svg" alt="vivo logo" width="52" align="center"> **LLM Algorithm Research Intern**, vivo Mobile Communication Co., Ltd., Oct. 2024–Mar. 2025
 
 ## Honors & Awards
@@ -50,4 +51,4 @@ My research interests include **multi-agent systems**, **ad hoc teamwork**, **hu
 
 ## Image sources
 
-University marks come from the official [Sun Yat-sen University](https://www.sysu.edu.cn/) and [Central South University](https://www.csu.edu.cn/zjzn/xxbs/xh.htm) sites; the vivo mark comes from [vivo](https://www.vivo.com/en/). Research figures are from the [Co-π-tree project page](https://beiwenzhang.github.io/Co-pi-tree/), [PACT arXiv HTML](https://arxiv.org/html/2510.25340v2), and [CoFlow project page](https://guowei-zou.github.io/coflow/).
+University marks come from the official [Sun Yat-sen University](https://www.sysu.edu.cn/) and [Central South University](https://www.csu.edu.cn/zjzn/xxbs/xh.htm) sites; the Tencent and vivo marks come from [Tencent's media resources](https://www.tencent.com/newsroom/media-resources/) and [vivo](https://www.vivo.com/en/). Research figures are from the [Co-π-tree project page](https://beiwenzhang.github.io/Co-pi-tree/), [PACT arXiv HTML](https://arxiv.org/html/2510.25340v2), and [CoFlow project page](https://guowei-zou.github.io/coflow/).
